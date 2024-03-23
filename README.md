@@ -19,7 +19,7 @@ Feel free to reach out and connect with me!
 
 # SKILLS!
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,terraform,gradle,npm,maven,grafana,git,cs,java,python,bash,js,dotnet,visualstudio,nginx,vim,nano,vscode,prometheus&perline=8)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselalhide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YidnekachewTefera/YidnekachewTefera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
