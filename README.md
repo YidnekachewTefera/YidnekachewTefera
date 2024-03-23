@@ -21,7 +21,8 @@ Feel free to reach out and connect with me!
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,terraform,gradle,npm,maven,grafana,git,cs,java,python,bash,js,dotnet,visualstudio,nginx,vim,nano,vscode,prometheus&perline=8)](https://skillicons.dev)
 <a href="https://github.com/anselal/anselal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
-</a><!--
+</a>
+<!--
 **YidnekachewTefera/YidnekachewTefera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
