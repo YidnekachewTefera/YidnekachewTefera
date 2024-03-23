@@ -20,7 +20,9 @@ Feel free to reach out and connect with me!
 # SKILLS!
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,terraform,gradle,npm,maven,grafana,git,cs,java,python,bash,js,dotnet,visualstudio,nginx,vim,nano,vscode,prometheus&perline=8)](https://skillicons.dev)
 [![GitHub Repo stats](https://github-readme-stats.vercel.app/api?username=YidnekachewTefera&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!--
 **YidnekachewTefera/YidnekachewTefera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
