@@ -19,8 +19,8 @@ jobs:
           cat waka_stats.md >> README.md
       - name: Commit Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local yomaytec@gmail.com "github-actions[bot]@users.noreply.github.com"
+          git config --local yidnekachewtefera "github-actions[bot]"
           git add README.md
           git commit -m "Update WakaTime stats"
           git push
