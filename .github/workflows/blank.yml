@@ -1,26 +1,33 @@
-name: WakaTime Stats Update
+name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * *' # This will run the workflow daily at midnight
   push:
     branches:
       - main
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      - name: Update WakaTime Stats
-        run: |
-          curl -o waka_stats.md https://github-readme-stats.vercel.app/api/wakatime?username=@yidnekachewtefera
-          cat waka_stats.md >> README.md
-      - name: Commit Changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "Update WakaTime stats"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Git
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+    - name: Update WakaTime stats
+      run: |
+        # Your commands to update WakaTime stats go here
+        git add README.md
+        git commit -m "Update WakaTime stats"
+
+    - name: Push changes
+      env:
+        GH_TOKEN: ${{ secrets.WAKA_TIME }}
+      run: |
+        git push https://github-actions:${GH_TOKEN}@github.com/YidnekachewTefera/YidnekachewTefera.git HEAD:main
