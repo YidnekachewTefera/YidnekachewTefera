@@ -1,6 +1,6 @@
 # Hi there 👋 I am Yidnekachew
 ## Cloud & DevOps Engineer!
-### I'm a highly motivated and results-oriented junior Cloud and DevOps engineer eager to leverage my skills and passion for automation to contribute to a dynamic team.  I possess a strong foundation in cloud principles, DevOps methodologies, and scripting languages, and I'm chomping at the bit to learn and grow within a fast-paced environment.
+### I'm a highly motivated and results-oriented Cloud and DevOps engineer eager to leverage my skills and passion for automation to contribute to a dynamic team.  I possess a strong foundation in cloud principles, DevOps methodologies, and scripting languages, and I'm chomping at the bit to learn and grow within a fast-paced environment.
 #### Here's a glimpse of what I bring to the table:
  • Experience with cloud platform AWS, Azure, and GCP
  • Proficiency in Scripting Languages Python and Bash
